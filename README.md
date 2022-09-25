@@ -2,7 +2,7 @@
 
 ## Funcionamiento
 Dentro del ZIP hay 3 carpetas <br />
-- __La primera:__ Es la carpeta con el DAPP de los certificados de asistencia a clase Para usarlo debe tener instalado NodeJS y ejcutar npm install y npm run start
+- __La primera:__ Es la carpeta con el DAPP de los certificados de asistencia a clase Para usarlo debe tener instalado NodeJS y ejcutar *npm install* y *npm run start*. Alli podra buscar si hay registros bajo cierto ID o agregar registros nuevos con la interfaz. 
 - __La segunda:__  Es la carpeta con el archivo de solidity con el contrato inteligente de el sistema de certificados
 - __La tercera:__ Es la carpeta con los archivos de solidty de las monedas creadas.
 
