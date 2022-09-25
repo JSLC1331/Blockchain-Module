@@ -1,5 +1,12 @@
 # Blockchain-Module
 
+## Funcionamiento
+Dentro del ZIP hay 3 carpetas <br />
+- __La primera:__ Es la carpeta con el DAPP de los certificados de asistencia a clase Para usarlo debe tener instalado NodeJS y ejcutar npm install y npm run start
+- __La segunda:__  Es la carpeta con el archivo de solidity con el contrato inteligente de el sistema de certificados
+- __La tercera:__ Es la carpeta con los archivos de solidty de las monedas creadas.
+
+## Monedas
 Enlace del contrato desplegado de la moneda de Jhon: https://rinkeby.etherscan.io/tx/0x43203af248f5e1302b8d03292c5388219173558b4dac924daa31dbd35def0295 <br />
 Dirección del contrato desplegado de la moneda de Jhon: 0x1F8B4fCFDa6528f6138fcA21D23e3AA0890B1CAf
 
